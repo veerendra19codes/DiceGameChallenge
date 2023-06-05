@@ -13,6 +13,7 @@ div.flex-container{
 div.players{
     display: flex;
     flex-direction: row;
+    text-align: center;
 }
 
 div.images{
